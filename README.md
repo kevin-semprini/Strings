@@ -16,7 +16,7 @@ Realizzare una app MAUI (per chi ha Linux va bene una versione Console) per lo s
 Il programma dovrà elaborare una stringa in ingresso e visualizzare:
  
 - La sua versione Maiuscola
- 
+
 - La sua versione Minuscola
  
 - Se contiene solo caratteri Alfabetici
